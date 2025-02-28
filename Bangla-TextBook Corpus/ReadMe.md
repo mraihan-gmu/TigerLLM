@@ -2,6 +2,12 @@
 <h1><span style="color:#800000; font-size:28px; font-family: 'Georgia';">Bangla-TextBook Corpus</span></h1>
 </div>
 
+<p align="center">
+  <a href="https://huggingface.co/datasets/md-nishat-008/Bangla-TextBook">Download it from HuggingFace</a>
+</p>
+
+
+---
 
 <div align="center">
 <table><tr>
