@@ -1,6 +1,6 @@
 <h1 style="text-align: center; color: green;">TigerLLM - A Family of Bangla Large Language Models</h1>
 
-<h3 style="text-align: center; color: green;">Nishat Raihan <span style="color: red;"></span>, Marcos Zampieri</h3>
+<h3 style="text-align: center; color: green;">Nishat Raihan <span style="color: red;">[1]</span>, Marcos Zampieri</h3>
 <h4 style="text-align: center; color: green;">George Mason University, VA, USA</h4>
 <p style="text-align: center; color: red;">mraihan2@gmu.edu</p>
 
@@ -317,6 +317,34 @@ Our approach emphasizes ethical practices by using open-source educational mater
 
 <hr>
 
+<h2 style="text-align: center; color: green;">References</h2>
+<ul>
+  <li>Alam, F., Chowdhury, S. A., et al. (2024). LLMs for low resource languages in multilingual settings.</li>
+  <li>Bai, Y., Jones, A., et al. (2024). Claude 3.5 Sonnet Technical Report.</li>
+  <li>Bhattacharjee, A., Hasan, T., et al. (2022). BanglaBERT: Language model pretraining and benchmarks for Bangla.</li>
+  <li>Brown, T., Mann, B., et al. (2023). GPT-4 Technical Report.</li>
+  <li>Brown, T., Mann, B., et al. (2020). Language models are few-shot learners.</li>
+  <li>Chowdhery, A., Narang, S., et al. (2022). PaLM: Scaling language modeling with pathways.</li>
+  <li>Corso, F., Pierri, F., et al. (2024). TikTokenizer research.</li>
+  <li>Dubey, A., Jauhri, A., et al. (2024). The LLaMA 3 herd of models.</li>
+  <li>Ekram, S. M. S., Rahman, A. A., et al. (2022). BanglaRQA benchmark.</li>
+  <li>Gunasekar, S., et al. (2023). Textbooks are all you need.</li>
+  <li>Hinton, G., Vinyals, O., &amp; Dean, J. (2015). Distilling the knowledge in a neural network.</li>
+  <li>Hu, E. J., Wallis, P., et al. Lora: Low-rank adaptation of large language models.</li>
+  <li>Mitra, A., Del Corro, L., et al. (2023). Orca 2: Teaching small language models how to reason.</li>
+  <li>Ortiz Suárez, P. J., Romary, L., &amp; Sagot, B. Contextualized word embeddings for mid-resource languages.</li>
+  <li>Raihan, N., Anastasopoulos, A., &amp; Zampieri, M. (2024). mHumanEval – A multilingual benchmark for code generation.</li>
+  <li>Rony, M. R. A. H., et al. (2024). BanglaQuaD: A Bangla open-domain question answering dataset.</li>
+  <li>Shafayat, S., et al. (2024). BEnQA: A benchmark for Bangla question answering and reasoning.</li>
+  <li>Taori, R., Gulrajani, I., et al. (2023). Alpaca: A replicable instruction-following model.</li>
+  <li>Team, G., et al. (2024). Gemma 2: Improving open language models at a practical size.</li>
+  <li>Wang, Y., et al. (2023). Self-instruct: Aligning language models with self-generated instructions.</li>
+  <li>Wang, Y., et al. (2024). MMLU-Pro: A robust multi-task language understanding benchmark.</li>
+  <li>Yue, X., et al. (2024). Pangea: A fully open multilingual multimodal LLM for 39 languages.</li>
+  <li>Zehady, A. K., et al. (2024). BongLLama: Llama for Bangla language.</li>
+  <li>Zhang, Y., et al. (2023). Llama: Open and efficient foundation language models.</li>
+</ul>
+
 <hr>
 
 <h2 style="text-align: center; color: green;">Appendix A: Bangla-Instruct Curation</h2>
@@ -588,4 +616,5 @@ Finetuning settings for TigerLLM (1B) and (9B) are detailed in Tables 4 and 5.
 
 <h2 style="text-align: center; color: green;">Appendix C: TigerLLM - Training Pipeline</h2>
 <p>
-Figure 2 illustrates the multi-stage training pipeline for producing both TigerLLM (1B) and TigerLLM (9B). The process begins with pre-trained models (LLaMA 3.2 and Gemma-2), followed by continual pretraining on the Bangla-TextBook corpus and subsequent finetuning on the Bangla-Instruct dataset. Figures 3 and 4 depict the loss curves during the pretraining and finetuning stage
+Figure 2 illustrates the multi-stage training pipeline for producing both TigerLLM (1B) and TigerLLM (9B). The process begins with pre-trained models (LLaMA 3.2 and Gemma-2), followed by continual pretraining on the Bangla-TextBook corpus and subsequent finetuning on the Bangla-Instruct dataset. Figures 3 and 4 depict the loss curves during the pretraining and finetuning stages respectively.
+</p>
