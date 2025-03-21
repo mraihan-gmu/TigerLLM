@@ -19,7 +19,7 @@
 
 <h1 style="text-align: center; color: green;">TigerLLM - A Family of Bangla Large Language Models</h1>
 
-<h3 style="text-align: center; color: green;">Nishat Raihan <span style="color: red;">[1]</span>, Marcos Zampieri</h3>
+<h3 style="text-align: center; color: green;">Nishat Raihan, Marcos Zampieri</h3>
 <h4 style="text-align: center; color: green;">George Mason University, VA, USA</h4>
 <p style="text-align: center; color: red;">mraihan2@gmu.edu</p>
 
