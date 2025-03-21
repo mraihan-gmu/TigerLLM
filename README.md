@@ -1,3 +1,22 @@
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://arxiv.org/abs/2410.15037](https://arxiv.org/pdf/2503.10995">
+<img src="https://img.shields.io/badge/arXiv-Read_Paper-blue?style=for-the-badge&logo=arxiv" alt="Read Paper"/>
+</a>
+</td>
+<td>
+<a href="mailto:mraihan2@gmu.edu">
+<img src="https://img.shields.io/badge/Email-Contact_Us-blue?style=for-the-badge&logo=gmail" alt="Contact Us"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+
+
 <h1 style="text-align: center; color: green;">TigerLLM - A Family of Bangla Large Language Models</h1>
 
 <h3 style="text-align: center; color: green;">Nishat Raihan <span style="color: red;">[1]</span>, Marcos Zampieri</h3>
