@@ -15,13 +15,32 @@
 </table>
 </div>
 
-
+<div align="center">
 
 <h1 style="text-align: center; color: green;">TigerLLM - A Family of Bangla Large Language Models</h1>
 
 <h3 style="text-align: center; color: green;">Nishat Raihan, Marcos Zampieri</h3>
 <h4 style="text-align: center; color: green;">George Mason University, VA, USA</h4>
 <p style="text-align: center; color: red;">mraihan2@gmu.edu</p>
+
+</div>
+
+
+---
+If you find our work helpful, please consider citing our paper:
+
+```bibtex
+@article{raihan2025tigerllm,
+  title={TigerLLM--A Family of Bangla Large Language Models},
+  author={Raihan, Nishat and Zampieri, Marcos},
+  journal={arXiv preprint arXiv:2503.10995},
+  year={2025}
+}
+```
+
+
+
+
 
 <hr>
 
