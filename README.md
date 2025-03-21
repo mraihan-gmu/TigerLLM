@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-<a href="https://arxiv.org/abs/2410.15037](https://arxiv.org/pdf/2503.10995">
+<a href="https://arxiv.org/pdf/2503.10995">
 <img src="https://img.shields.io/badge/arXiv-Read_Paper-blue?style=for-the-badge&logo=arxiv" alt="Read Paper"/>
 </a>
 </td>
