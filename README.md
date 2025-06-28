@@ -1,4 +1,8 @@
 <div align="center">
+  <h1 style="text-align: center; color: green;"> Accepted in ACL Main 2025 </h1>
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td>
