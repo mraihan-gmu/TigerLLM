@@ -31,7 +31,7 @@ If you find our work helpful, please consider citing our paper:
 
 ```bibtex
 @article{raihan2025tigerllm,
-  title={TigerLLM--A Family of Bangla Large Language Models},
+  title={TigerLLM-A Family of Bangla Large Language Models},
   author={Raihan, Nishat and Zampieri, Marcos},
   journal={arXiv preprint arXiv:2503.10995},
   year={2025}
