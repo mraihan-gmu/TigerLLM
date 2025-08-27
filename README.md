@@ -39,11 +39,23 @@
 If you find our work helpful, please consider citing our paper:
 
 ```bibtex
-@article{raihan2025tigerllm,
-  title={TigerLLM-A Family of Bangla Large Language Models},
-  author={Raihan, Nishat and Zampieri, Marcos},
-  journal={arXiv preprint arXiv:2503.10995},
-  year={2025}
+@inproceedings{raihan-zampieri-2025-tigerllm,
+    title = "{T}iger{LLM} - A Family of {B}angla Large Language Models",
+    author = "Raihan, Nishat  and
+      Zampieri, Marcos",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-short.69/",
+    doi = "10.18653/v1/2025.acl-short.69",
+    pages = "887--896",
+    ISBN = "979-8-89176-252-7"
 }
 ```
 
